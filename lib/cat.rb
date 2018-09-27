@@ -1,5 +1,5 @@
 class Cat
-<<<<<<< HEAD
+
   attr_accessor :mood
 
   def initialize(cat)
