@@ -14,5 +14,5 @@ class Cat
   def mood
     @mood = mood
   end 
->>>>>>> f241659838b3bf9e4cd677716a940bd04679e2e2
+
 end
